@@ -18,7 +18,7 @@
 
 | Light Theme                               |
 | ---------------------------------- |
-| ![Home](lightheme.png) |
+| ![Home](lighttheme.png) |
 
 | Dark Theme                               |
 | ---------------------------------- |
