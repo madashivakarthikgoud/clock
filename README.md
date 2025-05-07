@@ -1,6 +1,10 @@
 <!-- Badges -->
 
-![HTML5](https://img.shields.io/badge/HTML5-%3E=5-orange.svg) ![CSS3](https://img.shields.io/badge/CSS3-%3E=3-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+[![HTML5](https://img.shields.io/badge/HTML5-%3E=5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-%3E=3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
 
 ---
 
