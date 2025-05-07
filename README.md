@@ -12,6 +12,20 @@
 
 ---
 
+## 🎨 Screenshot
+
+<!-- Replace with actual screenshots in docs/screenshots/ -->
+
+| Light Theme                               |
+| ---------------------------------- |
+| ![Home](lightheme.png) |
+
+| Dark Theme                               |
+| ---------------------------------- |
+| ![Home](darktheme.png) |
+
+---
+
 ## 🚀 Key Features
 
 * **Real-Time Display:** Updates every second to show HH\:MM\:SS and localized full date.
